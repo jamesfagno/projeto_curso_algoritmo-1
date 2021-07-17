@@ -1,16 +1,4 @@
-/*
- numero, fatorial, contator: inteiro
 
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-     escreva ("Digite o número para calcular o fatorial:")
-     leia (numero)
-     fatorial := 1
-     para contator de 1 ate numero faca
-          fatorial := fatorial * contator
-     fimpara
-     escreva ("O fatorial de", numero, " é:", fatorial)
-*/
 
 function acaoBotao(){
     var numero, fatorial
